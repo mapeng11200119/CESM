@@ -1,2 +1,3 @@
 # CESM
 xiangmushuom
+phpinfo();
